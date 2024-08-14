@@ -1,1 +1,2 @@
-# HelloZephCS2A
+# Jon Zeph R. GLodoviza
+# Game Developer
